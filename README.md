@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcpagents-ai-mcpagentai-badge.png)](https://mseep.ai/app/mcpagents-ai-mcpagentai)
+
 
 # MCPAgentAI 🚀 
 
